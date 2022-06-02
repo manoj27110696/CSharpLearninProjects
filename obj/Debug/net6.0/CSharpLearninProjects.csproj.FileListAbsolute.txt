@@ -1,0 +1,15 @@
+C:\Users\manoj\documents\CSharpLearninProjects\bin\Debug\net6.0\CSharpLearninProjects.exe
+C:\Users\manoj\documents\CSharpLearninProjects\bin\Debug\net6.0\CSharpLearninProjects.deps.json
+C:\Users\manoj\documents\CSharpLearninProjects\bin\Debug\net6.0\CSharpLearninProjects.runtimeconfig.json
+C:\Users\manoj\documents\CSharpLearninProjects\bin\Debug\net6.0\CSharpLearninProjects.dll
+C:\Users\manoj\documents\CSharpLearninProjects\bin\Debug\net6.0\CSharpLearninProjects.pdb
+C:\Users\manoj\documents\CSharpLearninProjects\obj\Debug\net6.0\CSharpLearninProjects.csproj.AssemblyReference.cache
+C:\Users\manoj\documents\CSharpLearninProjects\obj\Debug\net6.0\CSharpLearninProjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manoj\documents\CSharpLearninProjects\obj\Debug\net6.0\CSharpLearninProjects.AssemblyInfoInputs.cache
+C:\Users\manoj\documents\CSharpLearninProjects\obj\Debug\net6.0\CSharpLearninProjects.AssemblyInfo.cs
+C:\Users\manoj\documents\CSharpLearninProjects\obj\Debug\net6.0\CSharpLearninProjects.csproj.CoreCompileInputs.cache
+C:\Users\manoj\documents\CSharpLearninProjects\obj\Debug\net6.0\CSharpLearninProjects.dll
+C:\Users\manoj\documents\CSharpLearninProjects\obj\Debug\net6.0\refint\CSharpLearninProjects.dll
+C:\Users\manoj\documents\CSharpLearninProjects\obj\Debug\net6.0\CSharpLearninProjects.pdb
+C:\Users\manoj\documents\CSharpLearninProjects\obj\Debug\net6.0\CSharpLearninProjects.genruntimeconfig.cache
+C:\Users\manoj\documents\CSharpLearninProjects\obj\Debug\net6.0\ref\CSharpLearninProjects.dll

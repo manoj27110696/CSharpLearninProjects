@@ -1,0 +1,6 @@
+projectKey=ChsarpLearningProjects
+serverUrl=http://localhost:9000
+serverVersion=9.4.0.54424
+dashboardUrl=http://localhost:9000/dashboard?id=ChsarpLearningProjects
+ceTaskId=AYEiSiBHAHe1EkUeQ5u8
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYEiSiBHAHe1EkUeQ5u8
